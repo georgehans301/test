@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # or "yarn", "maven", "pip", etc.
+    directory: "/" # location of the package manifests
+    schedule:
+      interval: "daily" # or "weekly", "monthly"
