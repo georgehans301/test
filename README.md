@@ -4,5 +4,5 @@ test shit
 
 will it push
 
-test license
+test remove license
 woodchip
